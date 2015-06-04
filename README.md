@@ -10,4 +10,12 @@ FFT data from a song is used to determine the when the bass frequencies are high
 
 To interface with the Arduino board, install the [Arduino USB Driver](http://www.arduino.cc/en/Main/Software). The code file for the Arduino microcontroller is located in the [Arduino](https://github.com/ChrisTheEngineer/The_Feeling_of_Sound/tree/master/Arduino/ASCIIToArduino) section.
 
+**Program:**
+
+<img src="/Documents/Program.png?raw=true" alt="Program">
+
+**Wristband:**
+
+<img src="/Documents/Wristband.jpg?raw=true" alt="Wristband" width = 634 height=432>
+
 Files containing a more in-depth description and details of the project are located in the [Documents](https://github.com/ChrisTheEngineer/The_Feeling_of_Sound/tree/master/Documents) section.
