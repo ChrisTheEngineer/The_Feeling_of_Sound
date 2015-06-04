@@ -16,10 +16,10 @@ The program has a random set of quotes it iterates through. These do not corresp
 
 **Program:**
 
-<img src="/Documents/Program.png?raw=true" alt="Program">
+<img src="/Documents/Images/Program.png?raw=true" alt="Program">
 
 **Wristband:**
 
-<img src="/Documents/Wristband.jpg?raw=true" alt="Wristband" width = 634 height=432>
+<img src="/Documents/Images/Wristband.jpg?raw=true" alt="Wristband" width = 634 height=432>
 
 Files containing a more in-depth description and details of the project are located in the [Documents](https://github.com/ChrisTheEngineer/The_Feeling_of_Sound/tree/master/Documents) section.
