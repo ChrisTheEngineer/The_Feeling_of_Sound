@@ -12,7 +12,7 @@ FFT data from a song is used to determine the when the bass frequencies are high
 
 To interface with the Arduino board, install the [Arduino USB Driver](http://www.arduino.cc/en/Main/Software). The code for the Arduino microcontroller is located in the [Arduino](/Arduino/ASCIIToArduino/ASCIIToArduino.ino) section.
 
-The program has a set of quotes it randomly iterates through. This feature do not correspond to the main functionality of the program, they are simply just for fun. To add, edit, or remove quotes: go to the [Quotes](/Temp[0]/Temp[0]/Quotes.temp0) file and edit it in a text editor such as notepad. Each line corresponds to a seperate quote.
+The program has a set of quotes it randomly iterates through. This feature does not correspond to the main functionality of the program, they are simply just for fun. To add, edit, or remove quotes: go to the [Quotes](/Temp[0]/Temp[0]/Quotes.temp0) file and edit it in a text editor such as notepad. Each line corresponds to a seperate quote.
 
 **Program:**
 
