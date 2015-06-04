@@ -3,7 +3,7 @@
 	using namespace System;	
 	using namespace System::IO::Ports;
 	using namespace System::Windows::Forms;
-	using namespace InTheHand::Net::Bluetooth;
+	//using namespace InTheHand::Net::Bluetooth;
 	
 	BOOL PlayFile(char* file);
 	BOOL PauseFile();
