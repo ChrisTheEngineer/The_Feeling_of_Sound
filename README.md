@@ -1,6 +1,8 @@
 # The Feeling of Sound
 Development of a device that amplifies the experience of listening to music using haptic technologies.
 
+Un4seen BASS library - used for audio information
+
 #Project Description
 Project originally created using Visual Studio 2015 RC on Windows 8.1
 
