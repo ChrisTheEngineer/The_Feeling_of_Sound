@@ -1,0 +1,60 @@
+﻿1>------ Build started: Project: VC++, Configuration: Debug Win32 ------
+1>Build started 8/5/2013 3:28:34 PM.
+1>InitializeBuildStatus:
+1>  Touching "Debug\VC++.unsuccessfulbuild".
+1>GenerateTargetFrameworkMonikerAttribute:
+1>Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+1>ClCompile:
+1>  All outputs are up-to-date.
+1>  tempo.cpp
+1>tempo.cpp(22): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+1>tempo.cpp(25): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+1>tempo.cpp(58): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+1>tempo.cpp(61): error C2601: 'EndRealTime' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(67): error C2601: 'PlayRealtime' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(75): error C2601: 'songName' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(101): error C2601: 'getSysVolume' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(105): error C2601: 'setVolume' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(109): error C2601: 'filePlaying' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(113): error C2601: 'ResumeFile' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(117): error C2601: 'PlayFile' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(127): error C2601: 'PauseFile' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(131): error C2601: 'Tempo::connect' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(140): error C2601: 'Tempo::setPort' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(151): error C2601: 'Tempo::UpdateSpectrum' : local function definitions are illegal
+1>          tempo.cpp(57): this line contains a '{' which has not yet been matched
+1>tempo.cpp(180): fatal error C1075: end of file found before the left brace '{' at 'tempo.cpp(57)' was matched
+1>  VC++.cpp
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(730): error C2958: the left bracket '[' found at 'c:\users\christian\desktop\vc++\vc++\form1.h(730)' was not matched correctly
+1>VC++.cpp(6): error C2143: syntax error : missing ';' before 'using'
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(719): error C2664: 'void std::vector<_Ty>::push_back(_Ty &&)' : cannot convert parameter 1 from 'System::String ^' to 'char *&&'
+1>          with
+1>          [
+1>              _Ty=char *
+1>          ]
+1>          Reason: cannot convert from 'System::String ^' to 'char *'
+1>          No user-defined-conversion operator available, or
+1>          Cannot convert a managed type to an unmanaged type
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(721): error C2725: 'System::IO::IOException' : unable to throw or catch a managed object by value or reference
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(721): error C2316: 'System::IO::IOException' : cannot be caught as the destructor and/or copy constructor are inaccessible
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(726): error C2143: syntax error : missing ';' before 'private'
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(726): error C2143: syntax error : missing ';' before '{'
+1>c:\users\christian\desktop\vc++\vc++\Form1.h(730): error C2143: syntax error : missing ']' before ')'
+1>VC++.cpp(19): fatal error C1075: end of file found before the left brace '{' at 'c:\users\christian\desktop\vc++\vc++\Form1.h(3)' was matched
+1>  Generating Code...
+1>
+1>Build FAILED.
+1>
+1>Time Elapsed 00:00:00.63
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
