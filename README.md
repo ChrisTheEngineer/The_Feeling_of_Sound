@@ -8,6 +8,6 @@ The overall objective was to create a wristband containing small vibrating motor
 
 FFT data from a song is used to determine the when the bass frequencies are highest. The intensity of the bass is sent serially to an arduino board to vibrate motors. This helps provide a more interactive and better experience.
 
-To interface with the Arduino board, install the [Arduino USB Driver](http://www.arduino.cc/en/Main/Software). The code file for the Arduino microcontroller is located in the [Arduino](https://github.com/ChrisTheEngineer/RobOculus/tree/master/Arduino) section.
+To interface with the Arduino board, install the [Arduino USB Driver](http://www.arduino.cc/en/Main/Software). The code file for the Arduino microcontroller is located in the [Arduino](https://github.com/ChrisTheEngineer/The_Feeling_of_Sound/tree/master/Arduino/ASCIIToArduino) section.
 
 Files containing a more in-depth description and details of the project are located in the [Documents](https://github.com/ChrisTheEngineer/The_Feeling_of_Sound/tree/master/Documents) section.
